@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src='https://c.tenor.com/xhbmkD5kCzMAAAAS/geek-nerd.gif' />
 I am Mostefa, I am a JavaScript Engineering, frontend
 specialist with extensive knowledge of backend
 technologies and a powerful UI/UX skillset.
