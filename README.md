@@ -12,3 +12,4 @@ technologies, and AI.
 Solving problems! That's how I solve it.
 ![](https://c.tenor.com/xhbmkD5kCzMAAAAS/geek-nerd.gif)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/momosetti/rebelchris/blob/master/devcard.svg" width="400" alt="Mostefa Setti's Dev Card"/></a>
