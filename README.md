@@ -1,18 +1,10 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGoBW6y2XzjWQ/profile-displaybackgroundimage-shrink_350_1400/0/1675796520631?e=1681344000&v=beta&t=5tpDXN6nStp1LQOlOGigaYJv-zIgSIrsnNSnIyjfijA"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 
-### Hi there 👋, I am Mostefa.
-I am a *JavaScript Engineering*, *frontend
-specialist* with extensive knowledge of backend
-technologies and a powerful *UI/UX* skillset.
-Focus on related frontend and JavaScript
-technologies. I have a passion for Design
-Systems, Web Accessibility, Serverless
-technologies, and AI.
+## Hello there! 👋
+I'm Mostefa, a passionate Software Engineer and frontend specialist with a solid background in backend technologies. My skill set extends to a powerful UI/UX expertise, making me well-rounded in the world of web development. I specialize in various frontend and JavaScript technologies, placing a particular emphasis on Design Systems, Web Accessibility, Serverless technologies, and AI.
 
-Solving problems! That's how I solve it.
-![](https://c.tenor.com/xhbmkD5kCzMAAAAS/geek-nerd.gif)
+I thrive on solving problems! Whether it's crafting elegant user interfaces or delving into complex backend logic, I approach challenges with a keen problem-solving mindset. My goal is to create efficient and user-friendly solutions that not only meet but exceed expectations.
+
+Let's build and innovate together! 🚀
 
 ## My DevCard
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/momosetti/momosetti/blob/main/devcard.svg" width="250" alt="Mostefa Setti's Dev Card"/></a>
